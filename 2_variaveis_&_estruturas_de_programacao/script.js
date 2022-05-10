@@ -13,6 +13,9 @@ if(1 > 2){
     console.log('condição default');
 };
 
+//operador ternário
+1 > 2 ? 'condição 1' : 'condição 2';
+
 /*Estruturas de repetição*/
 //while
 let num1 = 0;
